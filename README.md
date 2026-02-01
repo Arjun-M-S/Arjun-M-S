@@ -23,4 +23,4 @@ I'm a Computer Science student at **PES University**, Bengaluru. I sit at the in
 
 ### 📈 GitHub Stats
 
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-M-S&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
